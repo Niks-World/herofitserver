@@ -5,7 +5,7 @@
     {
       "id": 1,
       "title": "Boxing Bootcamp",
-      "image": "",
+      "image": "https://i.pinimg.com/564x/b0/80/9d/b0809dcbc1460a9e858661cc67b286c0.jpg",
       "description": " Get ready for an energetic and challenging Boxing Bootcamp. This high-intensity group workout combines boxing drills with cardio exercises for a total body workout. Suitable for all fitness levels, our trainers will motivate you to push your limits and achieve your goals.",
       "category": "Indoor"
     },
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Youth Boxing Program",
-      "image": "https://mommyp-prod.s3.amazonaws.com/styles/image620x420/s3/eastern-queens-boxing-club-2.jpg?itok=zfuyRWle",
+      "image": "https://i.pinimg.com/564x/83/d1/a2/83d1a21cc45d14c8842b3e7cb044d3d8.jpg",
       "description": "Introduce your children to the art of boxing with our Youth Boxing Program. Led by qualified instructors, this program focuses on teaching boxing fundamentals, discipline, and confidence-building skills in a safe and supportive environment.",
       "category": "Indoor"
     },
@@ -63,71 +63,97 @@
       "title": "ProBoxer Premium Boxing Gloves",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeVmkgLvac51OFNlhbe3Za7j39lWkEE49vMi67VBrQt-dr9-5nYXTw9eyJmpZmhOP_C80&usqp=CAU",
       "description": " Experience superior performance and protection with the ProBoxer Premium Boxing Gloves. These gloves are crafted from high-quality synthetic leather and feature multi-layered foam padding for optimal shock absorption. They provide a secure fit, excellent wrist support, and are designed for professional boxers and enthusiasts alike.",
-      "price": " $79.99"
+      "price": " $79.99",
+      "category": "equipment"
     },
     {
       "id": 10,
       "title": "SpeedStrike Boxing Reflex Ball",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/91602M82KbL._AC_UL600_SR600,600_.jpg",
       "description": "Improve your reflexes and hand-eye coordination with the SpeedStrike Boxing Reflex Ball.This innovative training tool is perfect for boxing workouts and helps enhance your reaction time and accuracy. It comes with an adjustable headband and two different difficulty levels, making it suitable for beginners and advanced users.",
-      "price": "$14.99"
+      "price": "$14.99",
+      "category": "equipment"
     },
     {
       "id": 11,
       "title": "PowerPunch Heavy Bag Stand",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_rfpESVnJPuqA5wH3GxcepD21wm93QDKQw&usqp=CAU",
       "description": " Train like a champion with the PowerPunch Heavy Bag Stand. This sturdy and durable stand is designed to hold heavy bags of various sizes and weights. It features adjustable height settings and a solid base for stability during intense boxing sessions. Get ready to unleash your power and improve your striking skills.",
-      "price": "$199.99"
+      "price": "$199.99",
+      "category": "equipment "
     },
     {
       "id": 12,
       "title": "FlexFit Boxing Hand Wraps",
       "image": "https://m.media-amazon.com/images/I/61pIZdsb8bL._AC_SS300_.jpg",
       "description": " Protect your hands and wrists with the FlexFit Boxing Hand Wraps. These elasticated wraps provide excellent support and compression, reducing the risk of injuries during boxing workouts. They are easy to wrap and secure, ensuring a comfortable fit and allowing you to focus on your training.",
-      "price": "$9.99"
+      "price": "$9.99",
+      "category": "equipment"
     },
     {
       "id": 13,
       "title": " Knockout Boxing Pads",
       "image": "https://knockout.ee/media/catalog/product/cache/f00e3f5ee2da5ae7972a0406cba6edaf/image/71936788/focus-mitts-king-pro-boxing-master-kpb-fm-master.jpeg",
       "description": " Enhance your training sessions with the Knockout Boxing Pads. These focus mitts are made from durable synthetic leather and feature shock-absorbing foam padding. They provide a target for punches and allow trainers to simulate real-life boxing scenarios. Improve your accuracy, speed, and precision with these high-quality pads.",
-      "price": " $34.99"
+      "price": " $34.99",
+      "category": "equipment"
     },
     {
       "id": 14,
       "title": "BoxMaster Boxing Training System",
       "image": "https://cdn.shopify.com/s/files/1/0420/9999/8873/products/20190228-w-00064-418755_620x.jpg?v=1626467917",
       "description": "Take your boxing workouts to the next level with the BoxMaster Boxing Training System. This innovative piece of equipment offers multiple punching angles, allowing you to practice various combinations and techniques. It provides a challenging and engaging full-body workout, making it suitable for both beginners and advanced boxers.",
-      "price": "$499.99"
+      "price": "$499.99",
+      "category": "equipment"
     },
     {
       "id": 15,
       "title": "QuickWrap Boxing Glove Liners",
       "image": "https://m.media-amazon.com/images/I/619bsF18JsS._AC_UF894,1000_QL80_.jpg",
       "description": "Stay fresh and comfortable during your boxing sessions with the QuickWrap Boxing Glove Liners. These moisture-wicking liners fit inside your gloves and help absorb sweat, preventing odor buildup. They are lightweight, breathable, and machine washable, ensuring hygiene and prolonging the lifespan of your gloves.",
-      "price": "$8.99"
+      "price": "$8.99",
+      "category": "equipment"
     },
     {
       "id": 16,
       "title": "ShadowStrike Boxing Dummy",
       "image": "https://media.istockphoto.com/id/177131415/photo/men-watch-out.jpg?s=612x612&w=0&k=20&c=OJySxzIAdCzCSx3pG-NjEr2erkffxgvpc5dTsqHcldQ=",
       "description": "Perfect your strikes and combinations with the ShadowStrike Boxing Dummy. This freestanding training dummy is designed to mimic the size and shape of an opponent, allowing you to practice your boxing techniques with precision. It features a durable construction and a weighted base for stability.",
-      "price": "$249.99"
+      "price": "$249.99",
+      "category": "equipment"
     },
     {
       "id": 17,
       "title": "ProFit Boxing Skipping Rope",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIkACH_y7-nRt7jXRJ0pgwC33pXFC9cvs_A&usqp=CAU",
       "description": " Improve your footwork, agility, and cardiovascular endurance with the ProFit Boxing Skipping Rope. This adjustable rope features ergonomic handles for a comfortable grip and smooth rotation. It is lightweight, portable, and ideal for warm-ups, conditioning, and coordination exercises.",
-      "price": "$12.99"
+      "price": "$12.99",
+      "category": "equipment"
     },
     {
       "id": 18,
       "title": "Warrior Boxing Training Gloves",
       "image": "https://c8.alamy.com/comp/2KFKDRE/boxer-hand-wrap-and-sports-man-close-up-ready-for-boxing-competition-fighter-match-or-martial-arts-inspiration-training-workout-mma-warrior-and-2KFKDRE.jpg",
       "description": "Unleash your inner warrior with the Warrior Boxing Training Gloves. These gloves are made from premium genuine leather and offer optimal hand protection and support. With their anatomical design and secure wrist closure, they provide a comfortable fit and allow you to train with intensity and confidence.",
-      "price": " $89.99"
-    }
+      "price": " $89.99",
+      "category": "equipment"
+    },
+    {
+        "id": 19,
+        "title": "Warrior Boxing Training Gloves",
+        "image": "https://i.pinimg.com/564x/61/4b/0d/614b0db3f0af26dd122a76ef01ef02d5.jpg",
+        "description": "Sportswoman doing boxing working outdoors. Female practicing boxing, throwing a punch in front.. These gloves are made from premium genuine leather and offer optimal hand protection and support. With their anatomical design and secure wrist closure, they provide a comfortable fit and allow you to train with intensity and confidence.",
+        "price": " $89.99",
+        "category": "Outdoor"
+      },
+      {
+        "id": 20,
+        "title": "Warrior Boxing Punching Bag",
+        "image": "https://i.pinimg.com/564x/61/4b/0d/614b0db3f0af26dd122a76ef01ef02d5.jpg",
+        "description": "Sportswoman doing boxing working outdoors. Female practicing boxing, throwing a punch in front.. These gloves are made from premium genuine leather and offer optimal hand protection and support. With their anatomical design and secure wrist closure, they provide a comfortable fit and allow you to train with intensity and confidence.",
+        "price": " $89.99",
+        "category": "Outdoor"
+      }
     ],
 
     "yoga":[
@@ -144,64 +170,376 @@
             "title": " Anti-Gravity Yoga Hammock Kit",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JIXpEmRyhOF9CElLWTzTEJBhIBT3yu2-dA&usqp=CAU",
             "description": "Start your floating yoga journey with our complete hammock kit. The kit includes a durable hammock, carabiners, and extension straps for easy setup. Enhance your flexibility and core strength with this versatile kit.",
-            "price": "$89.99"
+            "price": "$89.99",
+            "category": "Indoor"
           },
           {
             "id": 3,
             "title": "Floating Yoga Silk Sling",
             "image": "https://i.pinimg.com/736x/9e/0b/68/9e0b68631543c1322a978bd9628b9c25--aerial-hammock-aerial-yoga.jpg",
             "description": "Our floating yoga silk sling is designed for aerial yoga enthusiasts of all levels. Made from soft and durable fabric, it offers gentle support and flexibility. Enjoy the therapeutic benefits of suspended yoga with this reliable sling.",
-            "price": "$59.99"
+            "price": "$59.99",
+            "category": "Indoor"
           },
           {
             "id": 4,
             "title": "Aerial Yoga Hammock Set",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsE53rWLG9NUemy__AN5DuGcc640svNR7OA&usqp=CAU",
             "description": " Enhance your yoga practice with our comprehensive aerial yoga hammock set. The set includes a premium-grade hammock, carabiners, and daisy chains for quick installation. Engage in challenging aerial poses with confidence.",
-            "price": "$149.99"
+            "price": "$149.99",
+            "category": "Indoor"
           },
           {
             "id": 5,
             "title": "Floating Yoga Swing Chair",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBCbHcF_LncMMjFBUqbzc6SPVPKu6mfy38JJFDVhu92vYYC62KhzN8hIQZkJ0KMHPxPM&usqp=CAU",
             "description": "Immerse yourself in the blissful world of floating yoga with our swing chair. Crafted from durable materials, it offers a unique combination of relaxation and invigoration. Hang it indoors or outdoors for a versatile floating yoga experience.",
-            "price": "$199.99"
+            "price": "$199.99",
+            "category": "Indoor"
           },
           {
             "id": 6,
             "title": "Aerial Yoga Hammock Silks",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrFPpooztBANqYgqGM-kzscVjWyPMzNsRcA&usqp=CAU",
             "description": "Elevate your practice with our vibrant aerial yoga hammock silks. Made from premium fabric, these silks offer a luxurious feel and excellent durability. Unleash your creativity and add a touch of elegance to your floating yoga routine.",
-            "price": "$79.99"
+            "price": "$79.99",
+            "category": "Indoor"
           },
           {
             "id": 7,
             "title": "Floating Yoga Trapeze",
             "image": "https://www.shutterstock.com/image-vector/trapeze-table-pilates-simulator-vector-600w-2278775407.jpg",
             "description": "Discover the freedom of movement with our floating yoga trapeze. Made from strong materials and equipped with comfortable handles, it allows you to explore challenging poses with ease. Experience relaxation and flexibility in your floating yoga practice.",
-            "price": "$139.99"
+            "price": "$139.99",
+            "category": "Indoor"
           },
           {
             "id": 8,
             "title": "Anti-Gravity Yoga Hammock Stand",
             "image": "https://i.pinimg.com/236x/3a/63/d3/3a63d3a7190ced444007067eda70232a--yoga-aerial-aerial-hoop.jpg",
             "description": "Create a dedicated floating yoga space with our sturdy hammock stand. Constructed from durable materials, it provides a stable and secure anchor for your hammock. Transform any room into a floating yoga sanctuary with this versatile stand.",
-            "price": "$249.99"
+            "price": "$249.99",
+            "category": "Indoor"
           },
           {
             "id": 9,
             "title": "Floating Yoga Inversion Sling",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74LVGQrtlzGvF1PpuLEO2Z3nO9ibN278hcQ&usqp=CAU",
             "description": "Our inversion sling is designed to support your floating yoga inversions and decompression therapy. Made from soft and stretchable materials, it provides gentle traction to relieve tension in your spine and joints.",
-            "price": "$69.99"
+            "price": "$69.99",
+            "category": "Indoor"
           },
           {
             "id": 10,
             "title": "Ariel Floating Yoga Mat",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTkIAhpIT31xZEEDmi6flh2pMv1HyYMZlHA&usqp=CAU",
             "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
-            "price": "$49.99"
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 11,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/59/1b/1e/591b1ef8864652cc34f71a833089290a.jpg",
+            "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 12,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/4e/df/f0/4edff0f40199d6e584e811d24bc2582a.jpg",
+            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 13,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/01/b5/21/01b5214017e3bb89c1f960e3c008fad8.jpg",
+            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 14,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/33/d6/9b/33d69bccfa02a3fde954b7c380151e2d.jpg",
+            "description": "Through the practice of various poses, individuals develop better posture and alignment, which can alleviate chronic pain and discomfort caused by poor posture. Increased body awareness also helps individuals identify and correct unhealthy movement patterns in daily activities.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 15,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/ce/2c/0c/ce2c0c773c98fceeac7762daa59ce542.jpg",
+            "description": "Enhanced flexibility and mobility Regular yoga practice increases flexibility and improves joint range of motion, which can enhance athletic performance, prevent injuries, and support healthy aging.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 16,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/94/35/b0/9435b056aec23a554d2ad0360b88ef75.jpg",
+            "description": "The practice of yoga involves focusing the mind on the present moment, whether it's on the breath, a specific pose, or a mantra. This cultivates mental clarity, enhances concentration, and improves overall focus and attention span. Yoga's meditative aspects can also help calm a restless mind and improve cognitive function.",
+            "price": "$49.99",
+            "category": "Outdoor"
           }
+
+
+        ],
+
+        "cardio":[
+
+            {
+                "id": 1,
+                "title": "Indoor Cycling Class",
+                "image": "https://media.istockphoto.com/id/1127485222/photo/gym-training-on-stationary-bikes.jpg?s=612x612&w=0&k=20&c=iBD_Cksse1_7FRoWgnxMI1fz34eheOEUexYzGYIEaDI=",
+                "description": "Join our energetic Indoor Cycling Class for a heart-pumping cardio workout on stationary bikes. Our experienced instructors will guide you through intervals, climbs, and sprints to improve endurance and burn calories.",
+                "category": "Indoor"
+              },
+              {
+                "id": 2,
+                "title": "Outdoor Running Club",
+                "image": "https://media.istockphoto.com/id/143920084/photo/group-of-runners-in-a-cross-country-race.jpg?s=612x612&w=0&k=20&c=tIGYGDaKyM4qEs0RbXiAxt4WGGWcGRSTnS-T-lo750c=",
+                "description": "Lace up your shoes and join our Outdoor Running Club. Enjoy the fresh air and beautiful scenery as our running coaches lead you on guided runs, helping you improve your fitness and meet your running goals.",
+                "category": "Outdoor"
+              },
+              {
+                "id": 3,
+                "title": "Treadmill Workout",
+                "image": "https://media.istockphoto.com/id/1132006407/photo/empty-gym.jpg?s=2048x2048&w=is&k=20&c=x_LaunoxMDW-hu63ULs_hH547Yij4dZMIZcFy7sGIns=",
+                "description": " Get your heart rate up with our intense Treadmill Workout. Our trainers will design personalized treadmill routines to help you burn calories, increase endurance, and challenge your fitness level.",
+                "category": "Indoor"
+              },
+              {
+                "id": 4,
+                "title": "Outdoor Cardio Circuit",
+                "image": "https://media.istockphoto.com/id/928849420/photo/diverse-group-of-people-using-exercise-equipment-at-the-gym.jpg?s=612x612&w=0&k=20&c=KbmcyNxLIBkjr9cLqcGJai0xofK-ENAn9vInN6-rjfA=",
+                "description": "Experience a total body workout in the open air with our Outdoor Cardio Circuit. This high-intensity interval training session combines bodyweight exercises, cardio drills, and circuit training to boost your metabolism and improve cardiovascular fitness.",
+                "category": "Outdoor"
+              },
+              {
+                "id": 5,
+                "title": "Elliptical Machine",
+                "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/AO/VY/PZ/80131324/set-440-semi-commercial-elliptical-cross-trainer-machine-500x500.jpg",
+                "description": "Our high-quality Elliptical Machine offers a low-impact cardio workout that targets both the upper and lower body. It provides a smooth and natural stride, making it ideal for users of all fitness levels.",
+                "category": "Indoor",
+                "price": "$1,299"
+              },
+              {
+                "id": 6,
+                "title": "Jump Rope",
+                "image": "https://media.istockphoto.com/id/642195250/photo/jump-for-heart-health.jpg?s=2048x2048&w=is&k=20&c=i3EnyvQal81q9uoYB1VJAOY42ssTWwybQaahlQEnP5s=",
+                "description": "Burn calories and improve coordination with our durable Jump Rope. This portable and versatile cardio tool can be used indoors or outdoors to enhance cardiovascular endurance and agility.",
+                "category": "Indoor",
+                "price": "$19.99"
+              },
+              {
+                "id": 7,
+                "title": "Rowing Machine",
+                "image": "https://media.istockphoto.com/id/1253868191/photo/rowing-machine-workout.jpg?s=612x612&w=0&k=20&c=kRpADGeTMs7P8VF9DhdxYhrURDBgkrr6dIZFvdyZj4I=",
+                "description": "Engage your entire body with our Rowing Machine. This indoor cardio equipment offers a full-body workout, targeting muscles in your arms, legs, back, and core while providing an effective cardiovascular exercise.",
+                "category": "Indoor"
+              },
+              {
+                "id": 8,
+                "title": "Treadmill Desk",
+                "image": "https://cdn.shopify.com/s/files/1/0557/8014/7381/articles/fitbit-crop-u2412962.jpg?v=1646177372",
+                "description": "Stay active while working with our innovative Treadmill Desk. This ergonomic workstation combines a height-adjustable desk with a treadmill, allowing you to walk or jog while completing your tasks.",
+                "category": "Indoor"
+              },
+              {
+                "id": 9,
+                "title": "ZenCardio Resistance Bands",
+                "image": "https://m.media-amazon.com/images/I/51qENsa2heL._AC_UL400_.jpg",
+                "description": "The ZenCardio Resistance Bands offer a dynamic way to incorporate cardio into your yoga sessions. These durable bands provide resistance during various yoga movements, helping you build strength, increase flexibility, and boost your heart rate for an effective cardio workout.",
+                "price": "$14.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 10,
+                "title": " YogaCardio Balance Blocks",
+                "image": "https://cdn.shopify.com/s/files/1/0654/4153/0097/products/yoga-block-2_900x.jpg?v=1678096283",
+                "description": "These YogaCardio Balance Blocks are specially designed to add an element of cardio to your yoga routine. With their unique shape and cushioned surface, they help improve stability and engage your core muscles, while incorporating cardio movements for an intense workout.",
+                "price": "$29.99",
+                "category": "Outdoor"
+              },
+              {
+                "id": 11,
+                "title": "FlexiPulse Yoga Straps",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAj00-RpvC_e1t-jzhJC4HgegpFmJIKRybDw&usqp=CAU",
+                "description": "The FlexiPulse Yoga Straps combine the benefits of traditional yoga straps with a built-in pulsating mechanism. As you stretch and hold poses, the straps provide rhythmic pulses that elevate your heart rate, helping you achieve a cardio workout alongside your yoga practice.",
+                "price": " $19.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 12,
+                "title": "CardioFlow Yoga Mat",
+                "image": "https://m.media-amazon.com/images/I/61z-Ks-b0GL._AC_UL400_.jpg",
+                "description": "The CardioFlow Yoga Mat is designed to enhance your yoga practice with integrated cardio exercises. Its non-slip surface provides stability, while the built-in resistance bands allow you to perform various cardio movements, combining strength training with yoga poses.",
+                "price": "$49.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 13,
+                "title": "CardioGrip Yoga Gloves",
+                "image": "https://chakragalaxy.com/wp-content/uploads/2023/02/versatile-ultramarine-blue-non-slip-yoga-gloves-for-sweaty-hands-847441-300x300.jpg",
+                "description": " The CardioGrip Yoga Gloves are designed to intensify your yoga practice by incorporating cardio elements. With their textured palm grips and integrated weighted pads, they increase the challenge of yoga poses while engaging your upper body and core muscles.",
+                "price": "$24.99",
+                "category": "equipment"
+              },
+              {
+                "id": 14,
+                "title": "PulsePod Meditation Headband",
+                "image": "https://images.youcarelifestyle.com/vendor/products/7-10-2022/d3a7ab98-d55d-472a-98cd-d7e11c9aa488.jpg",
+                "description": "The PulsePod Meditation Headband is a high-tech accessory that combines meditation and cardio yoga. Equipped with advanced sensors, it detects your heart rate and provides audio cues to synchronize your breathing and movement, optimizing your cardio workout.",
+                "price": "$79.99",
+                "category": "Outdoor"
+              },
+              {
+                "id": 15,
+                "title": "Rope cardio outdoor",
+                "image": "https://i.pinimg.com/564x/98/58/37/985837799fa2b50b3e554b31d84426ba.jpg",
+                "description":"Rope moving is a highly effective aerobic exercise that gets your heart pumping and improves cardiovascular endurance. It elevates your heart rate, increasing the oxygen supply to your muscles and promoting overall heart health.",
+                "price": "$79.99",
+                "category": "Outdoor"
+              },
+              {
+                "id": 16,
+                "title": "Rope cardio outdoor",
+                "image": "https://i.pinimg.com/564x/f6/1e/9f/f61e9f2f97705a6c51405214d836ff61.jpg",
+                "description":"Plank exercises are a popular form of core-strengthening exercise that involves holding a position similar to a push-up, but with the forearms or hands on the ground and the body in a straight line. Planks offer numerous benefits for the body and are an effective way to improve overall strength and stability.",
+                "price": "$79.99",
+                "category": "Outdoor"
+              }
+
+        ],
+
+        "weightfree":[
+
+            {
+                "title": "Bench Press",
+                "image": "https://images.unsplash.com/photo-1590487988357-5233b152a9b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=458&q=80",
+                "id": 1,
+                "category": "Indoor"
+              },
+              {
+                "title": "Decline Bench Press",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2022-08-16-at-11-46-14-am-1660667022.png",
+                "id": 2,
+                "category": "Indoor"
+              },
+              {
+                "title": "Incline Bench Press",
+                "image": "https://i.ytimg.com/vi/NL3GMyoZ778/maxresdefault.jpg",
+                "id": 3,
+                "category": "Indoor"
+              },
+              {
+                "title": "Dumbbells",
+                "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "id": 4,
+                "category": "Indoor"
+              },
+              {
+                "title": "Lats Pulldown",
+                "image": "https://images.unsplash.com/photo-1596357395104-ba989e72b5ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "id": 5,
+                "category": "Indoor"
+              },
+              {
+                "title": "Leg Press",
+                "image": "https://plus.unsplash.com/premium_photo-1679635697818-2cdd42cbc6e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "id": 6,
+                "category": "Indoor"
+              },
+              {
+                "title": "Leg Curls",
+                "image": "https://steelsupplements.com/cdn/shop/articles/How_to_Use_the_Lying_Leg_Curl_Machine_for_Max_Results_4874x.png?v=1641843225",
+                "id": 7,
+                "category": "Indoor"
+              },
+              {
+                "title": "Cable Machine",
+                "image": "https://i.ytimg.com/vi/taI4XduLpTk/maxresdefault.jpg",
+                "id": 8,
+                "category": "Indoor"
+              },
+              {
+                "title": "Squat Station",
+                "image": "https://images.unsplash.com/photo-1596357395217-80de13130e92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+                "id": 9
+              },
+              {
+                "title": "Rowing Machine",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/woman-in-a-cross-training-gym-royalty-free-image-1652124143.jpg",
+                "id": 10,
+                "category": "Indoor"
+              },
+              {
+                "title": "Kellebell",
+                "image": "https://images.unsplash.com/photo-1632077804406-188472f1a810?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+                "id": 11,
+                "category": "Indoor"
+              },
+              {
+                "title": "Back Extention",
+                "image": "https://images.unsplash.com/photo-1585484764802-387ea30e8432?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkyfHxneW18ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+                "id": 12,
+                "category": "Indoor"
+              },
+              {
+                "title": "Shoulder Press",
+                "image": "https://i.ytimg.com/vi/WvLMauqrnK8/maxresdefault.jpg",
+                "id": 13,
+                "category": "Indoor"
+              },
+              {
+                "title": "Benches",
+                "image": "https://www.lifefitness.com/resource/image/1575784/landscape_ratio4x3/768/576/b34e262590b37abcde7f572f68f23256/qP/hero-benches.jpg",
+                "id": 14,
+                "category": "Indoor"
+              },
+              {
+                "title": "Seated Row Machine",
+                "image": "https://mirafit.co.uk/media/wordpress/f4bf9ef5bd4de0d4b26fa3d27271b327.jpg",
+                "id": 15,
+                "category": "Indoor"
+              },
+              {
+                "title": "Power Rack",
+                "image": "https://images.unsplash.com/photo-1577992805669-c80be3285f36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3F1YXQlMjByYWNrfGVufDB8fDB8fHww&w=1000&q=80",
+                "id": 16,
+                "category": "Indoor"
+              },
+              {
+                "title": "Seated Dip Machine",
+                "image": "https://www.globalfitness.com/cdn/shop/products/new-sportgear-plate-loaded-seated-dip-in-gym-right_1920x.jpg?v=1669127304",
+                "id": 17,
+                "category": "Indoor"
+              },
+              {
+                "title": "Preacher Curl Bench",
+                "image": "https://cdn.shopify.com/s/files/1/2559/4942/files/PCB02539.jpg?v=1622230221",
+                "id": 18,
+                "category": "Indoor"
+              },
+              {
+                "title": "Overhead Press Machine ",
+                "image": " https://images.unsplash.com/photo-1577992805669-c80be3285f36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3F1YXQlMjByYWNrfGVufDB8fDB8fHww&w=1000&q=80",
+                "id": 19,
+                "category": "Indoor"
+              },
+              {
+                "title": "Hack Squat Machine",
+                "image": "https://www.bodybuildingmealplan.com/wp-content/uploads/Hack-Squat-Machine-Alternative.jpg",
+                "id": 20,
+                "category": "Indoor"
+              }
         ]
+
+
+
 }
 
