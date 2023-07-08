@@ -153,6 +153,86 @@
         "description": "Sportswoman doing boxing working outdoors. Female practicing boxing, throwing a punch in front.. These gloves are made from premium genuine leather and offer optimal hand protection and support. With their anatomical design and secure wrist closure, they provide a comfortable fit and allow you to train with intensity and confidence.",
         "price": " $89.99",
         "category": "Outdoor"
+      },
+      {
+        "id": 21,
+        "title": "Punching Bag Gloves 500 - Black/Silver",
+        "image": "https://contents.mediadecathlon.com/p2190109/16e22a5827dda17802d97b44dbbc518f/p2190109.jpg?format=auto&quality=70&f=650x0",
+        "description": "Punching bag gloves are specially designed gloves used for training on punching bags. They provide padding and support to protect the hands during impact, reducing the risk of injury. These gloves are essential for boxing, martial arts, and fitness enthusiasts looking to improve their striking technique and build strength.",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 22,
+        "title": "Junior Punching Ball + 4 Oz Boxing Gloves Set",
+        "image": "https://contents.mediadecathlon.com/p2235820/9bc2580733bb3931a8137390f687cad7/p2235820.jpg?format=auto&quality=70&f=1024x0",
+        "description": "The punching ball is designed to train your punches. The foam ball and sprung, stable metal base guarantee good responsiveness. The height (100-130 cm) can be easily adjusted using the wheel on the central metal shaft. This punching ball comes with a pair of junior gloves in size 4 OZ (5-10 years).",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 23,
+        "title": "Shin Pads, Shin Guards Pads Thai Kick Boxing Taekwondo Protector Training, ",
+        "image": "https://m.media-amazon.com/images/I/51pbm4OFMuL._SX425_.jpg",
+        "description": "USI UNIVERSAL THE UNBEATABLE 850MA Shin Pads, Shin Guards Pads Instep MMA Muay Thai Kick Boxing Taekwondo Protector Training, ",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 24,
+        "title": " Cartoon Printed Boxing Kit and Punching Bag with Accessories for Kids Boys and Girls Pack of 1 Random Colours",
+        "image": "https://m.media-amazon.com/images/I/41NkS+paTPL._SX355_.jpg",
+        "description": "The gloves are very comfortable, breathable linings so that your child will feel fresh and light even after wearing gloves for a long time. In addition, the PU with anti-slip properties and the glove internal filling with good resilience can effectively protect your child from boxing injury and effectively absorb shock. Champions of tomorrow are made today and this youth heavy bag kit comes with everything your young person needs to practice their favorite contact sport and get an unbeatable workout in the process",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 25,
+        "title": "Mouth Guard Sports 2 Pack of Professional Mouthguards for Boxing",
+        "image": "https://m.media-amazon.com/images/I/61Ed2pXiWvS._SX425_.jpg",
+        "description": "Our Hardened Shell and SoftGel Liner go above industry standards to protect your lips, teeth, and jaw. The Rush guard is perfect for football, boxing, wrestling, kickboxing, lacrosse, brazilian jiu-jitsu (bjj), karate, muay thai, taekwondo, judo, flag football along with all other forms of martial arts and contact sports.",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 26,
+        "title": "New Arm Blaster, Biceps Muscle Workout, Heavy Duty Thick Gauge, Padded, for Men & Women",
+        "image": "https://m.media-amazon.com/images/I/61DXpq8DmmL._SY450_.jpg",
+        "description":"Top Quality Biceps Isolator, Round Edges Arm Blaster, Heavy Metal Buckle for Clip keeps Belt Secure. Comes with neck strap, with supreme v2 foam neck padding. Product has a strong aluminum body w/ 1000 lb capacity webbed nylon belt",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 27,
+        "title": "Rope Cable Attachment Pull Down Rope Long Tricep Fitness",
+        "image": "https://m.media-amazon.com/images/I/71RwwRYjfLL._SY355_.jpg",
+        "description": "Long tricep fitness rope is a upgrade tricep rope with 2 sets of anti-slip neoprene handles. Greater range of motion and heavy duty high quality design ensure to pull back farther and lower than ever before. Workouts with superior rope cable attachment , max out your muscles to build the body of your dreams.",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 28,
+        "title": "FirstFit Python Power Twister Bar | Upper Body Exercise ",
+        "image": "https://m.media-amazon.com/images/I/71Z+C7wqhgL._SY355_.jpg",
+        "description": "A new way for strength training bar and chest exerciser for men. An arm exercise equipment, powerful chest flex bar for muscle builder power, weightlifting, and bodybuilding.",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 29,
+        "title": "golden punch",
+        "image": "https://i.pinimg.com/736x/f0/9c/52/f09c52cd45aa3492e4cbac58c201126a.jpg",
+        "description": "Multilayer inner foam system with inner wrist padding offers superb hand and wrist protection for training",
+        "price": "$199.99",
+        "category": "equipment "
+      },
+      {
+        "id": 30,
+        "title": "Home Workout Systems",
+        "image": "https://i.pinimg.com/564x/e8/c5/e5/e8c5e5d3300df3f35bda9cb7d8b46e9f.jpg",
+        "description": "Working out has always been high-intensity, sport-specific, and...not in my house. Now, I’m a coach/trainer at Orangetheory, so I’m used to group exercise. And I thrive on it. ",
+        "price": "$199.99",
+        "category": "equipment "
       }
     ],
 
