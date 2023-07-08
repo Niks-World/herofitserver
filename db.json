@@ -284,6 +284,38 @@
             "description": "The practice of yoga involves focusing the mind on the present moment, whether it's on the breath, a specific pose, or a mantra. This cultivates mental clarity, enhances concentration, and improves overall focus and attention span. Yoga's meditative aspects can also help calm a restless mind and improve cognitive function.",
             "price": "$49.99",
             "category": "Outdoor"
+          },
+          {
+            "id": 17,
+            "title": "Warrior II (Virabhadrasana II) yoga",
+            "image": "https://www.verywellfit.com/thmb/gjxJxNveYVmRoORSPkM3u8pErR0=/750x0/filters:gifv(webm)/Verywell-03-3567198-Warrior2copy-598b7c57396e5a0010148cc5.gif ",
+            "description": " You'll also rotate your back foot, angling your toes at about 45 degrees. In both Warrior poses, aim to keep your front knee stacked over the ankle. Your front toes face forward.",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
+          },
+          {
+            "id": 18,
+            "title": "Triangle Pose (Utthita Trikonasana) yoga",
+            "image": " https://www.verywellfit.com/thmb/b7ESDlYirtcK8FijjKFR-iWLiAI=/750x0/filters:gifv(webm)/triangle-pose-2f611c06139e407a8db08f19e39ec21e.gif",
+            "description": "The Triangle can be modified like Extended Side Angle, using a yoga block for your bottom hand if you aren't comfortable reaching your arm to the floor. You can also rest your hand higher up on your leg—on your shin or thigh—but avoid putting it directly on your knee. ",
+            "price": "$49.99",
+            "category": "Indoor"
+          },
+          {
+            "id": 19,
+            "title": "Standing Forward Bend (Uttanasana) yoga",
+            "image": " https://www.verywellfit.com/thmb/5iHLBxW6zAJLNBHN4WvYLzK8eOA=/750x0/filters:gifv(webm)/Verywell-2-3567193-ForwardBend01-110copy-598b7292d088c00013392822.gif",
+            "description": "To do Standing Forward, Bend, exhale, and fold over your legs. If the hamstrings feel a little tight at first, bend the knees so that you can release your spine. Let the head hang heavy. Keep the legs gently bent with feet hip-width apart for better stability (you can straighten the legs, but it is unnecessary). You can clasp opposite elbows with opposite hands while swaying gently from side to side. ",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
+          },
+          {
+            "id": 20,
+            "title": "Bridge Pose (Setu Bandha Sarvangasana) yoga",
+            "image": "https://www.verywellfit.com/thmb/-2ytXkijWJ48nkhKjl7w0rsAYSs=/750x0/filters:gifv(webm)/essential-yoga-poses-for-beginners-3566747-bridge-f91496dbe9a34e168ea9858b543ae46f.gif",
+            "description": "Bridge pose is a gentle way to explore spine extension, also known as a backbend. It's a good idea to start incorporating this type of movement because it improves the mobility of your spine and counters the effects of too much sitting.",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
           }
 
 
@@ -412,6 +444,38 @@
                 "description":"Plank exercises are a popular form of core-strengthening exercise that involves holding a position similar to a push-up, but with the forearms or hands on the ground and the body in a straight line. Planks offer numerous benefits for the body and are an effective way to improve overall strength and stability.",
                 "price": "$79.99",
                 "category": "Outdoor"
+              },
+              {
+                "id": 17,
+                "title": "Ab Roller",
+                "image": "https://ik.imagekit.io/yuhonas/Ab_Roller/0.jpg",
+                "description":"Hold the Ab Roller with both hands and kneel on the floor Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position..",
+                "price": "$79.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 18,
+                "title": "Air Bike",
+                "image": "https://ik.imagekit.io/yuhonas/Air_Bike/0.jpg",
+                "description":"Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
+                "price": "$79.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 19,
+                "title": "Alternate Heel Touchers",
+                "image": "https://ik.imagekit.io/yuhonas/Alternate_Heel_Touchers/0.jpg",
+                "description":"Lie on the floor with the knees bent and the feet on the floor around 18-24 inches apart. Your arms should be extended by your side. This will be your starting position Crunch over your torso forward and up about 3-4 inches to the right side and touch your right heel as you hold the contraction for a second. Exhale while performing this movement.",
+                "price": "$79.99",
+                "category": "Indoor"
+              },
+              {
+                "id": 20,
+                "title": "Alternate Leg Diagonal Bound",
+                "image": "https://ik.imagekit.io/yuhonas/Alternate_Leg_Diagonal_Bound/0.jpg",
+                "description":"Assume a comfortable stance with one foot slightly in front of the other. Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound. It may help to use a line on the ground to guage distance from side to side. Repeat the sequence with the other leg.",
+                "price": "$79.99",
+                "category": "Indoor"
               }
 
         ],
