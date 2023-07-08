@@ -1,0 +1,207 @@
+
+
+{
+    "boxing":[
+    {
+      "id": 1,
+      "title": "Boxing Bootcamp",
+      "image": "",
+      "description": " Get ready for an energetic and challenging Boxing Bootcamp. This high-intensity group workout combines boxing drills with cardio exercises for a total body workout. Suitable for all fitness levels, our trainers will motivate you to push your limits and achieve your goals.",
+      "category": "Indoor"
+    },
+    {
+      "id": 2,
+      "title": "Outdoor Boxing Fitness",
+      "image": "https://media.istockphoto.com/id/1401953226/photo/couple-kickboxing.jpg?s=612x612&w=0&k=20&c=z__JCSGxTFjOmLbD5YepYbtbgd-0UC8qY-dIAcQMKko=",
+      "description": "Enjoy the fresh air and invigorating outdoor atmosphere with our Outdoor Boxing Fitness classes. These sessions incorporate boxing techniques, cardio exercises, and outdoor circuit training to provide a dynamic and exciting workout experience.",
+      "category": "Outdoor"
+    },
+    {
+      "id": 3,
+      "title": "Youth Boxing Program",
+      "image": "https://mommyp-prod.s3.amazonaws.com/styles/image620x420/s3/eastern-queens-boxing-club-2.jpg?itok=zfuyRWle",
+      "description": "Introduce your children to the art of boxing with our Youth Boxing Program. Led by qualified instructors, this program focuses on teaching boxing fundamentals, discipline, and confidence-building skills in a safe and supportive environment.",
+      "category": "Indoor"
+    },
+    {
+      "id": 4,
+      "title": "Boxing and Nature Hike",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7ok4PHyQtR2Ph1RgPUhoG-iMxVu_cGoig2ZgyqUfB-IyjTKCDKLgVAzQSF6I9TB3NVE&usqp=CAU",
+      "description": "Experience the perfect blend of boxing and nature with our Boxing and Nature Hike sessions. We'll start with a guided hike through scenic trails, followed by a boxing workout amidst the beauty of nature. Enhance your fitness, connect with the outdoors, and relieve stress all in one session.",
+      "category": "Outdoor"
+    },
+    {
+      "id": 5,
+      "title": "Boxing Personal Training",
+      "image": "https://media.istockphoto.com/id/1409452071/photo/two-boxers-fighting-in-a-boxing-ring.jpg?s=2048x2048&w=is&k=20&c=EVzRJUV2q5bNMbrIsOZYYDpW1QAUaAgQPwiWMc0NKsY=",
+      "description": "This is a one-on-one training program that is tailored to your individual needs and goals. Your trainer will create a personalized workout plan for you and provide you with the support and motivation you need to reach your goals.",
+      "category": "Indoor"
+    },
+    {
+      "id": 6,
+      "title": "Boxing Self-Defense Classes",
+      "image": "https://evolve-mma.com/wp-content/uploads/2020/02/Muay-Thai-Self-Defense-1024x576.jpg",
+      "description": "These classes teach you how to use boxing techniques for self-defense. They typically cover topics such as striking, blocking, and footwork.",
+      "category": "Indoor"
+    },
+    {
+      "id": 7,
+      "title": "Boxing Kickboxing Classes",
+      "image": "https://clubsolutionsmagazine.com/wp-content/uploads/2018/11/shutterstock_530500384-750x375.jpg",
+      "description": "These classes combine boxing and kickboxing drills to give you a full-body workout. They're a great way to improve your cardio, strength, and coordination.",
+      "category": "Indoor or Outdoor"
+    },
+    {
+      "id": 8,
+      "title": "Boxing Kids Classes",
+      "image": "https://madhouseboxingclub.com/wp-content/uploads/2020/07/baby-boxer-square-top2.jpg",
+      "description": "Our boxing kids classes are designed for kids of all ages and skill levels. They'll learn the basics of boxing, as well as important life skills like discipline and teamwork.",
+      "category": "Indoor"
+    },
+    {
+      "id": 9,
+      "title": "ProBoxer Premium Boxing Gloves",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeVmkgLvac51OFNlhbe3Za7j39lWkEE49vMi67VBrQt-dr9-5nYXTw9eyJmpZmhOP_C80&usqp=CAU",
+      "description": " Experience superior performance and protection with the ProBoxer Premium Boxing Gloves. These gloves are crafted from high-quality synthetic leather and feature multi-layered foam padding for optimal shock absorption. They provide a secure fit, excellent wrist support, and are designed for professional boxers and enthusiasts alike.",
+      "price": " $79.99"
+    },
+    {
+      "id": 10,
+      "title": "SpeedStrike Boxing Reflex Ball",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/91602M82KbL._AC_UL600_SR600,600_.jpg",
+      "description": "Improve your reflexes and hand-eye coordination with the SpeedStrike Boxing Reflex Ball.This innovative training tool is perfect for boxing workouts and helps enhance your reaction time and accuracy. It comes with an adjustable headband and two different difficulty levels, making it suitable for beginners and advanced users.",
+      "price": "$14.99"
+    },
+    {
+      "id": 11,
+      "title": "PowerPunch Heavy Bag Stand",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_rfpESVnJPuqA5wH3GxcepD21wm93QDKQw&usqp=CAU",
+      "description": " Train like a champion with the PowerPunch Heavy Bag Stand. This sturdy and durable stand is designed to hold heavy bags of various sizes and weights. It features adjustable height settings and a solid base for stability during intense boxing sessions. Get ready to unleash your power and improve your striking skills.",
+      "price": "$199.99"
+    },
+    {
+      "id": 12,
+      "title": "FlexFit Boxing Hand Wraps",
+      "image": "https://m.media-amazon.com/images/I/61pIZdsb8bL._AC_SS300_.jpg",
+      "description": " Protect your hands and wrists with the FlexFit Boxing Hand Wraps. These elasticated wraps provide excellent support and compression, reducing the risk of injuries during boxing workouts. They are easy to wrap and secure, ensuring a comfortable fit and allowing you to focus on your training.",
+      "price": "$9.99"
+    },
+    {
+      "id": 13,
+      "title": " Knockout Boxing Pads",
+      "image": "https://knockout.ee/media/catalog/product/cache/f00e3f5ee2da5ae7972a0406cba6edaf/image/71936788/focus-mitts-king-pro-boxing-master-kpb-fm-master.jpeg",
+      "description": " Enhance your training sessions with the Knockout Boxing Pads. These focus mitts are made from durable synthetic leather and feature shock-absorbing foam padding. They provide a target for punches and allow trainers to simulate real-life boxing scenarios. Improve your accuracy, speed, and precision with these high-quality pads.",
+      "price": " $34.99"
+    },
+    {
+      "id": 14,
+      "title": "BoxMaster Boxing Training System",
+      "image": "https://cdn.shopify.com/s/files/1/0420/9999/8873/products/20190228-w-00064-418755_620x.jpg?v=1626467917",
+      "description": "Take your boxing workouts to the next level with the BoxMaster Boxing Training System. This innovative piece of equipment offers multiple punching angles, allowing you to practice various combinations and techniques. It provides a challenging and engaging full-body workout, making it suitable for both beginners and advanced boxers.",
+      "price": "$499.99"
+    },
+    {
+      "id": 15,
+      "title": "QuickWrap Boxing Glove Liners",
+      "image": "https://m.media-amazon.com/images/I/619bsF18JsS._AC_UF894,1000_QL80_.jpg",
+      "description": "Stay fresh and comfortable during your boxing sessions with the QuickWrap Boxing Glove Liners. These moisture-wicking liners fit inside your gloves and help absorb sweat, preventing odor buildup. They are lightweight, breathable, and machine washable, ensuring hygiene and prolonging the lifespan of your gloves.",
+      "price": "$8.99"
+    },
+    {
+      "id": 16,
+      "title": "ShadowStrike Boxing Dummy",
+      "image": "https://media.istockphoto.com/id/177131415/photo/men-watch-out.jpg?s=612x612&w=0&k=20&c=OJySxzIAdCzCSx3pG-NjEr2erkffxgvpc5dTsqHcldQ=",
+      "description": "Perfect your strikes and combinations with the ShadowStrike Boxing Dummy. This freestanding training dummy is designed to mimic the size and shape of an opponent, allowing you to practice your boxing techniques with precision. It features a durable construction and a weighted base for stability.",
+      "price": "$249.99"
+    },
+    {
+      "id": 17,
+      "title": "ProFit Boxing Skipping Rope",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIkACH_y7-nRt7jXRJ0pgwC33pXFC9cvs_A&usqp=CAU",
+      "description": " Improve your footwork, agility, and cardiovascular endurance with the ProFit Boxing Skipping Rope. This adjustable rope features ergonomic handles for a comfortable grip and smooth rotation. It is lightweight, portable, and ideal for warm-ups, conditioning, and coordination exercises.",
+      "price": "$12.99"
+    },
+    {
+      "id": 18,
+      "title": "Warrior Boxing Training Gloves",
+      "image": "https://c8.alamy.com/comp/2KFKDRE/boxer-hand-wrap-and-sports-man-close-up-ready-for-boxing-competition-fighter-match-or-martial-arts-inspiration-training-workout-mma-warrior-and-2KFKDRE.jpg",
+      "description": "Unleash your inner warrior with the Warrior Boxing Training Gloves. These gloves are made from premium genuine leather and offer optimal hand protection and support. With their anatomical design and secure wrist closure, they provide a comfortable fit and allow you to train with intensity and confidence.",
+      "price": " $89.99"
+    }
+    ],
+
+    "yoga":[
+        {
+            "id": 1,
+            "title": " Premium Aerial Yoga Swing",
+            "image": "https://m.media-amazon.com/images/I/81hjVDz38xL._SL1500_.jpg",
+            "description": " Experience the ultimate floating yoga practice with our premium aerial yoga swing. Made from high-quality materials, this swing offers optimal support and comfort. Elevate your yoga practice and enjoy the freedom of movement in the air.",
+            "price": "$129.99",
+            "category": "Indoor"
+          },
+          {
+            "id": 2,
+            "title": " Anti-Gravity Yoga Hammock Kit",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JIXpEmRyhOF9CElLWTzTEJBhIBT3yu2-dA&usqp=CAU",
+            "description": "Start your floating yoga journey with our complete hammock kit. The kit includes a durable hammock, carabiners, and extension straps for easy setup. Enhance your flexibility and core strength with this versatile kit.",
+            "price": "$89.99"
+          },
+          {
+            "id": 3,
+            "title": "Floating Yoga Silk Sling",
+            "image": "https://i.pinimg.com/736x/9e/0b/68/9e0b68631543c1322a978bd9628b9c25--aerial-hammock-aerial-yoga.jpg",
+            "description": "Our floating yoga silk sling is designed for aerial yoga enthusiasts of all levels. Made from soft and durable fabric, it offers gentle support and flexibility. Enjoy the therapeutic benefits of suspended yoga with this reliable sling.",
+            "price": "$59.99"
+          },
+          {
+            "id": 4,
+            "title": "Aerial Yoga Hammock Set",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsE53rWLG9NUemy__AN5DuGcc640svNR7OA&usqp=CAU",
+            "description": " Enhance your yoga practice with our comprehensive aerial yoga hammock set. The set includes a premium-grade hammock, carabiners, and daisy chains for quick installation. Engage in challenging aerial poses with confidence.",
+            "price": "$149.99"
+          },
+          {
+            "id": 5,
+            "title": "Floating Yoga Swing Chair",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBCbHcF_LncMMjFBUqbzc6SPVPKu6mfy38JJFDVhu92vYYC62KhzN8hIQZkJ0KMHPxPM&usqp=CAU",
+            "description": "Immerse yourself in the blissful world of floating yoga with our swing chair. Crafted from durable materials, it offers a unique combination of relaxation and invigoration. Hang it indoors or outdoors for a versatile floating yoga experience.",
+            "price": "$199.99"
+          },
+          {
+            "id": 6,
+            "title": "Aerial Yoga Hammock Silks",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHrFPpooztBANqYgqGM-kzscVjWyPMzNsRcA&usqp=CAU",
+            "description": "Elevate your practice with our vibrant aerial yoga hammock silks. Made from premium fabric, these silks offer a luxurious feel and excellent durability. Unleash your creativity and add a touch of elegance to your floating yoga routine.",
+            "price": "$79.99"
+          },
+          {
+            "id": 7,
+            "title": "Floating Yoga Trapeze",
+            "image": "https://www.shutterstock.com/image-vector/trapeze-table-pilates-simulator-vector-600w-2278775407.jpg",
+            "description": "Discover the freedom of movement with our floating yoga trapeze. Made from strong materials and equipped with comfortable handles, it allows you to explore challenging poses with ease. Experience relaxation and flexibility in your floating yoga practice.",
+            "price": "$139.99"
+          },
+          {
+            "id": 8,
+            "title": "Anti-Gravity Yoga Hammock Stand",
+            "image": "https://i.pinimg.com/236x/3a/63/d3/3a63d3a7190ced444007067eda70232a--yoga-aerial-aerial-hoop.jpg",
+            "description": "Create a dedicated floating yoga space with our sturdy hammock stand. Constructed from durable materials, it provides a stable and secure anchor for your hammock. Transform any room into a floating yoga sanctuary with this versatile stand.",
+            "price": "$249.99"
+          },
+          {
+            "id": 9,
+            "title": "Floating Yoga Inversion Sling",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74LVGQrtlzGvF1PpuLEO2Z3nO9ibN278hcQ&usqp=CAU",
+            "description": "Our inversion sling is designed to support your floating yoga inversions and decompression therapy. Made from soft and stretchable materials, it provides gentle traction to relieve tension in your spine and joints.",
+            "price": "$69.99"
+          },
+          {
+            "id": 10,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTkIAhpIT31xZEEDmi6flh2pMv1HyYMZlHA&usqp=CAU",
+            "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
+            "price": "$49.99"
+          }
+        ]
+}
+
