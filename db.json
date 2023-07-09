@@ -237,7 +237,87 @@
     ],
 
     "yoga":[
-        {
+          {
+            "id": 11,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/59/1b/1e/591b1ef8864652cc34f71a833089290a.jpg",
+            "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 12,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/4e/df/f0/4edff0f40199d6e584e811d24bc2582a.jpg",
+            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 13,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/01/b5/21/01b5214017e3bb89c1f960e3c008fad8.jpg",
+            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 14,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/33/d6/9b/33d69bccfa02a3fde954b7c380151e2d.jpg",
+            "description": "Through the practice of various poses, individuals develop better posture and alignment, which can alleviate chronic pain and discomfort caused by poor posture. Increased body awareness also helps individuals identify and correct unhealthy movement patterns in daily activities.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 15,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/ce/2c/0c/ce2c0c773c98fceeac7762daa59ce542.jpg",
+            "description": "Enhanced flexibility and mobility Regular yoga practice increases flexibility and improves joint range of motion, which can enhance athletic performance, prevent injuries, and support healthy aging.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 16,
+            "title": "Ariel Floating Yoga Mat",
+            "image": "https://i.pinimg.com/564x/94/35/b0/9435b056aec23a554d2ad0360b88ef75.jpg",
+            "description": "The practice of yoga involves focusing the mind on the present moment, whether it's on the breath, a specific pose, or a mantra. This cultivates mental clarity, enhances concentration, and improves overall focus and attention span. Yoga's meditative aspects can also help calm a restless mind and improve cognitive function.",
+            "price": "$49.99",
+            "category": "Outdoor"
+          },
+          {
+            "id": 17,
+            "title": "Warrior II (Virabhadrasana II) yoga",
+            "image": "https://www.verywellfit.com/thmb/gjxJxNveYVmRoORSPkM3u8pErR0=/750x0/filters:gifv(webm)/Verywell-03-3567198-Warrior2copy-598b7c57396e5a0010148cc5.gif",
+            "description": " You'll also rotate your back foot, angling your toes at about 45 degrees. In both Warrior poses, aim to keep your front knee stacked over the ankle. Your front toes face forward.",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
+          },
+          {
+            "id": 18,
+            "title": "Triangle Pose (Utthita Trikonasana) yoga",
+            "image": "https://www.verywellfit.com/thmb/b7ESDlYirtcK8FijjKFR-iWLiAI=/750x0/filters:gifv(webm)/triangle-pose-2f611c06139e407a8db08f19e39ec21e.gif",
+            "description": "The Triangle can be modified like Extended Side Angle, using a yoga block for your bottom hand if you aren't comfortable reaching your arm to the floor. You can also rest your hand higher up on your leg—on your shin or thigh—but avoid putting it directly on your knee. ",
+            "price": "$49.99",
+            "category": "Indoor"
+          },
+          {
+            "id": 19,
+            "title": "Standing Forward Bend (Uttanasana) yoga",
+            "image": "https://www.verywellfit.com/thmb/5iHLBxW6zAJLNBHN4WvYLzK8eOA=/750x0/filters:gifv(webm)/Verywell-2-3567193-ForwardBend01-110copy-598b7292d088c00013392822.gif",
+            "description": "To do Standing Forward, Bend, exhale, and fold over your legs. If the hamstrings feel a little tight at first, bend the knees so that you can release your spine. Let the head hang heavy. Keep the legs gently bent with feet hip-width apart for better stability (you can straighten the legs, but it is unnecessary). You can clasp opposite elbows with opposite hands while swaying gently from side to side. ",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
+          },
+          {
+            "id": 20,
+            "title": "Bridge Pose (Setu Bandha Sarvangasana) yoga",
+            "image": "https://www.verywellfit.com/thmb/-2ytXkijWJ48nkhKjl7w0rsAYSs=/750x0/filters:gifv(webm)/essential-yoga-poses-for-beginners-3566747-bridge-f91496dbe9a34e168ea9858b543ae46f.gif",
+            "description": "Bridge pose is a gentle way to explore spine extension, also known as a backbend. It's a good idea to start incorporating this type of movement because it improves the mobility of your spine and counters the effects of too much sitting.",
+            "price": "$49.99",
+            "category": "Indoor or Outdoor"
+          },
+          {
             "id": 1,
             "title": " Premium Aerial Yoga Swing",
             "image": "https://m.media-amazon.com/images/I/81hjVDz38xL._SL1500_.jpg",
@@ -316,86 +396,6 @@
             "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
             "price": "$49.99",
             "category": "Outdoor"
-          },
-          {
-            "id": 11,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/59/1b/1e/591b1ef8864652cc34f71a833089290a.jpg",
-            "description": "Enhance your yoga practice with the Ariel Floating Yoga Mat. Its unique design provides added stability and support, allowing you to effortlessly master challenging poses on the water. Made from durable and eco-friendly materials, this mat is perfect for both indoor and outdoor use.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 12,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/4e/df/f0/4edff0f40199d6e584e811d24bc2582a.jpg",
-            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 13,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/01/b5/21/01b5214017e3bb89c1f960e3c008fad8.jpg",
-            "description": "This all-level yoga session helps increase flexibility, endurance, and strength, leaving you both energised and Zen as you free your mind, body, and spirit.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 14,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/33/d6/9b/33d69bccfa02a3fde954b7c380151e2d.jpg",
-            "description": "Through the practice of various poses, individuals develop better posture and alignment, which can alleviate chronic pain and discomfort caused by poor posture. Increased body awareness also helps individuals identify and correct unhealthy movement patterns in daily activities.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 15,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/ce/2c/0c/ce2c0c773c98fceeac7762daa59ce542.jpg",
-            "description": "Enhanced flexibility and mobility Regular yoga practice increases flexibility and improves joint range of motion, which can enhance athletic performance, prevent injuries, and support healthy aging.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 16,
-            "title": "Ariel Floating Yoga Mat",
-            "image": "https://i.pinimg.com/564x/94/35/b0/9435b056aec23a554d2ad0360b88ef75.jpg",
-            "description": "The practice of yoga involves focusing the mind on the present moment, whether it's on the breath, a specific pose, or a mantra. This cultivates mental clarity, enhances concentration, and improves overall focus and attention span. Yoga's meditative aspects can also help calm a restless mind and improve cognitive function.",
-            "price": "$49.99",
-            "category": "Outdoor"
-          },
-          {
-            "id": 17,
-            "title": "Warrior II (Virabhadrasana II) yoga",
-            "image": "https://www.verywellfit.com/thmb/gjxJxNveYVmRoORSPkM3u8pErR0=/750x0/filters:gifv(webm)/Verywell-03-3567198-Warrior2copy-598b7c57396e5a0010148cc5.gif ",
-            "description": " You'll also rotate your back foot, angling your toes at about 45 degrees. In both Warrior poses, aim to keep your front knee stacked over the ankle. Your front toes face forward.",
-            "price": "$49.99",
-            "category": "Indoor or Outdoor"
-          },
-          {
-            "id": 18,
-            "title": "Triangle Pose (Utthita Trikonasana) yoga",
-            "image": " https://www.verywellfit.com/thmb/b7ESDlYirtcK8FijjKFR-iWLiAI=/750x0/filters:gifv(webm)/triangle-pose-2f611c06139e407a8db08f19e39ec21e.gif",
-            "description": "The Triangle can be modified like Extended Side Angle, using a yoga block for your bottom hand if you aren't comfortable reaching your arm to the floor. You can also rest your hand higher up on your leg—on your shin or thigh—but avoid putting it directly on your knee. ",
-            "price": "$49.99",
-            "category": "Indoor"
-          },
-          {
-            "id": 19,
-            "title": "Standing Forward Bend (Uttanasana) yoga",
-            "image": " https://www.verywellfit.com/thmb/5iHLBxW6zAJLNBHN4WvYLzK8eOA=/750x0/filters:gifv(webm)/Verywell-2-3567193-ForwardBend01-110copy-598b7292d088c00013392822.gif",
-            "description": "To do Standing Forward, Bend, exhale, and fold over your legs. If the hamstrings feel a little tight at first, bend the knees so that you can release your spine. Let the head hang heavy. Keep the legs gently bent with feet hip-width apart for better stability (you can straighten the legs, but it is unnecessary). You can clasp opposite elbows with opposite hands while swaying gently from side to side. ",
-            "price": "$49.99",
-            "category": "Indoor or Outdoor"
-          },
-          {
-            "id": 20,
-            "title": "Bridge Pose (Setu Bandha Sarvangasana) yoga",
-            "image": "https://www.verywellfit.com/thmb/-2ytXkijWJ48nkhKjl7w0rsAYSs=/750x0/filters:gifv(webm)/essential-yoga-poses-for-beginners-3566747-bridge-f91496dbe9a34e168ea9858b543ae46f.gif",
-            "description": "Bridge pose is a gentle way to explore spine extension, also known as a backbend. It's a good idea to start incorporating this type of movement because it improves the mobility of your spine and counters the effects of too much sitting.",
-            "price": "$49.99",
-            "category": "Indoor or Outdoor"
           }
 
 
